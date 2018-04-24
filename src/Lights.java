@@ -5,13 +5,13 @@ public class Lights
 	public void on()
 	{
 		on=0;
-		System.out.println("The Lights Are Now On");
+		System.out.println("Lights On");
 	}
 	
 	public void off()
 	{
 		on=1;
-		System.out.println("The Lights Are Now Off");
+		System.out.println("Lights Off");
 	}
 }
 

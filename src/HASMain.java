@@ -7,6 +7,7 @@ public class HASMain
 		has1.addDevices("AC");
 		has1.addDevices("Mixer");
 		has1.addDevices("Home theater");
+		has1.addDevices("Microwave_Oven");
 	}
 }
 

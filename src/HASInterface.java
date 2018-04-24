@@ -28,7 +28,7 @@ public class HASInterface
 		//Lights Code Here!
 	}
 	
-	if(string=="WashingMachine")
+	if(string=="Washing_Machine")
 	{
 		//Washing Machine Here!	
 	}

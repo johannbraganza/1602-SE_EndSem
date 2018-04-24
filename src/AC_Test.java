@@ -2,8 +2,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class AC_Test {
-
+public class AC_Test 
+{
 	int on = 0;
 	@Test
 	public void test() 

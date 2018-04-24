@@ -8,36 +8,36 @@ public class TV
 	public void on()
 	{
 		on=0;
-		System.out.println("TV Is Now On");
+		System.out.println("TV On");
 	}
 	
 	public void off()
 	{
 		on=1;
-		System.out.println("TV Is Now Off");
+		System.out.println("TV Off");
 	}
 	
 	public void next_channel()
 	{
 		channel_no++;
-		System.out.println("The Channel is:"+channel_no);
+		System.out.println("Channel :"+channel_no);
 	}
 	
 	public void previous_channel()
 	{
 		channel_no--;
-		System.out.println("The Channel is:"+channel_no);
+		System.out.println("Channel :"+channel_no);
 	}
 	
 	public void increaseVolume()
 	{
 		volume++;
-		System.out.println("The Volume is:"+volume);
+		System.out.println("Volume :"+volume);
 	}
 	
 	public void decreaseVolume()
 	{
 		volume--;
-		System.out.println("The Volume is:"+volume);
+		System.out.println("Volume :"+volume);
 	}
 }
