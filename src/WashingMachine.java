@@ -2,6 +2,7 @@ public class WashingMachine
 {
 	int on=1;
 	String name="Samsung Washing Machine";
+	
 	public void on()
 	{
 		on=0;
